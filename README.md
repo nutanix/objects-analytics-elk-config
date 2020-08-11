@@ -1,6 +1,5 @@
 # objects-analytics-elk-config
 
-# objects-analytics
 Configuration files required to build own Nutanix Objects Analytics Dashboard
 
 Link to related blog which has information on Objetcs Notifications and setting up the Analytics Dashboard - < >
