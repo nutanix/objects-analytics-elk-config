@@ -2,9 +2,10 @@
 
 Configuration files required to build own Nutanix Objects Analytics Dashboard
 
-Link to related blog which has information on Objetcs Notifications and setting up the Analytics Dashboard - https://www.linkedin.com/pulse/draft/AgGQjnTsgM0hdQAAAXPhy1J3yWvMxCI__Yrps9VtnHI0fjcLFdNQuJANfSxFCb9pgfptNmE 
+# Blog on Objetcs Notifications and setting up the Analytics Dashboard - https://www.linkedin.com/pulse/draft/AgGQjnTsgM0hdQAAAXPhy1J3yWvMxCI__Yrps9VtnHI0fjcLFdNQuJANfSxFCb9pgfptNmE 
 
-Link to video on Analytcis Dashboard and Notifications - https://youtu.be/qB96VjUzzEQ 
+# Video on Analytcis Dashboard and Notifications 
+https://youtu.be/qB96VjUzzEQ 
 
 ## Logstash Configuration
 
